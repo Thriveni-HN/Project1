@@ -1,0 +1,264 @@
+ /* h1{
+color: red;
+}
+
+
+p{
+    border-color: rgb(20, 20, 21);
+    background-color: grey; 
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 20px;
+    text-transform: capitalize;
+    text-size-adjust: 25px;
+}
+
+button{
+    color: black;
+    border-radius: 6px;
+    border-color: black;
+
+}
+
+body{
+    background-color: aliceblue;
+    
+}
+
+
+/* *-astresrisk */
+
+/* .box{
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    
+    border: 5px dashed brown;
+    border-radius: 5%;
+    text-align: start;
+   
+    padding: 10px 30px 40px 50px;
+    margin: 20px 20px 20px 20px;
+
+    
+}
+
+.heading{
+    color: red;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+
+a{
+    color: brown;
+}
+
+
+.pt{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius:  50%; 
+}   
+
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    
+    color: white;
+    
+}
+
+button{
+    background-color: #f08804;
+}
+ 
+#first {
+    color: #f08804;
+    font-size: 25px;
+
+}
+a{
+    margin-right: 180px;
+}  
+
+#content{
+    height: 500px;
+    display: inline-block;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    display: inline-block;
+    color: white;
+}
+
+.contentBox1{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+} */ */
+
+/* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: red;
+    margin-left: 10%;
+} */
+
+/* div{ 
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+    color: black;
+    background-image: url("sunset.jpg.jpg");
+    background-size: cover;
+    color: white;
+
+}
+
+
+#box1{
+    position: static;
+    background-color: azure;
+}
+
+#box2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    background-color: rgb(176, 173, 173);
+}
+
+#box3{
+ 
+    position: sticky;
+    background-color: blanchedalmond;
+    top: 30px;
+
+
+}
+
+#box4{
+    background-color: azure;
+    position: fixed;
+    margin-left: 5px;
+} */
+
+/* body{
+    text-align: center;
+}
+
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    transition: all 1s ease-in 1s; 
+    transform: y 180deg;
+
+
+}
+#container{
+    width: 800px;
+    height: 200px;
+   display: flex;
+   flex-direction: column-reverse;
+   justify-content: center;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color: brown;
+}
+
+#box3{
+    background-color: violet;
+}
+
+#box4{
+    background-color: aquamarine;
+}
+
+#box5{
+    background-color: grey;
+}
+
+@media (max-width: 700px) {
+    dive{
+        background-color: green;
+    }
+}
+
+div:hover{
+    background-color: red;
+    color:white;
+}  */
+
+
+
+
+
+*{
+   margin: 0;
+   font-family: Arial;
+   border: border-box; 
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
